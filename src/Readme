@@ -1,0 +1,6 @@
+##Readme##
+
+Próximos passos:
+ - Colocar REST API na nuvem AWS ou Azure.
+ - Trocar o banco de dados para um serviço de cache da Nuvem, se for AWS utilizar o redis pois o mesmo é open-source e muito rápido a busca dos elementos devido utilizar a estrutura de chave-valor.
+ - Implementar solução de design pattern Singleton para contextDB do entity framework.
